@@ -1,0 +1,8 @@
+petrol=(float(print("Enter the $ spend on gas= ")))
+pizza=(float(print("Enter the $ spend on food= ")))
+shopping=(float(print("Enter the $ spend on shopping= ")))
+total=petrol+pizza+shopping
+avg=total/3
+
+print("total expense = ",total)
+print("average = ",avg)
